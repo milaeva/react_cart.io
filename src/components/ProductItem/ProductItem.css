@@ -32,11 +32,11 @@ img {
 .mobile-card__title {
   display: inline-block;
   font-size: 24px;
-  color: blue;
+  color: green;
   margin-bottom: 20px;
 }
 
 .mobile-card__descr {
   font-size: 18px;
-  color: black;
+  color: darkblue;
 }
